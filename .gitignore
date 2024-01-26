@@ -1,0 +1,11 @@
+### Freedesktop.org / macOS ###
+.Trashes/
+
+### Apple macOS ###
+.Spotlight-V100/
+.DS_Store
+
+### Microsoft Windows ###
+$Recycle.Bin
+Thumbs.db
+desktop.ini
